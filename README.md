@@ -21,7 +21,8 @@ O script utiliza as seguintes bibliotecas Python:
 
 Certifique-se de instalá-las usando o comando:
 
-pip install pyautogui keyboard
+'''pip install pyautogui
+pip install keyboard'''
 
 ## Como usar
 
