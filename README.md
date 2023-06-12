@@ -19,20 +19,16 @@ O script utiliza as seguintes bibliotecas Python:
 - pyautogui
 - keyboard
 
-Certifique-se de instalá-las usando o comando:
-
-'''pip install pyautogui
-pip install keyboard'''
-
 ## Como usar
 
 Siga as etapas abaixo para utilizar o script:
 
-1. Faça o download ou clone este repositório em sua máquina local.
-2. Abra o jogo BloonsTD6 e carregue o mapa Castelo Sombrio em modo tela cheia, na resolução 1920x1080.
-3. Execute o script main.py (certifique-se de ter as permissões necessárias para executar scripts no seu dispositivo).
-4. O script iniciará automaticamente o processo de farm de XP, utilizando reconhecimento por imagens e coordenadas.
-5. Aguarde até que o script complete o farm de XP ou pare manualmente quando desejar.
+1. Faça o download ou clone este repositório em sua máquina local. 'git clone https://github.com/pepeu120/Farm-XP-BloonsTD6'
+2. Abra o jogo BloonsTD6 e em modo tela cheia, na resolução 1920x1080, deixe no meu principal, onde tem a opção jogar.
+3. Acesse o local do main.py pelo terminal (com tamanho reduzido, não pode cobrir o botão jogar).
+4. Execute 'py main.py'
+5. O script iniciará automaticamente o processo de farm de XP, utilizando reconhecimento por imagens e coordenadas.
+6. Aguarde até que o script complete o farm de XP ou pare manualmente quando desejar, CTRL+C no terminal para encerrar.
 
 ## Notas importantes
 
