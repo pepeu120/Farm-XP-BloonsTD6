@@ -23,12 +23,13 @@ O script utiliza as seguintes bibliotecas Python:
 
 Siga as etapas abaixo para utilizar o script:
 
-1. Faça o download ou clone este repositório em sua máquina local. 'git clone https://github.com/pepeu120/Farm-XP-BloonsTD6'
-2. Abra o jogo BloonsTD6 e em modo tela cheia, na resolução 1920x1080, deixe no meu principal, onde tem a opção jogar.
-3. Acesse o local do main.py pelo terminal (com tamanho reduzido, não pode cobrir o botão jogar).
-4. Execute 'py main.py'
-5. O script iniciará automaticamente o processo de farm de XP, utilizando reconhecimento por imagens e coordenadas.
-6. Aguarde até que o script complete o farm de XP ou pare manualmente quando desejar, CTRL+C no terminal para encerrar.
+1. Faça o download ou clone este repositório em sua máquina local. `git clone https://github.com/pepeu120/Farm-XP-BloonsTD6`
+2. Instale as dependencias `pip install pyautogui` e `pip install keyboard`
+3. Abra o jogo BloonsTD6 e em modo tela cheia, na resolução 1920x1080, deixe no meu principal, onde tem a opção jogar.
+4. Acesse o local do main.py pelo terminal (com tamanho reduzido, não pode cobrir o botão jogar).
+5. Execute `py main.py`
+6. O script iniciará automaticamente o processo de farm de XP, utilizando reconhecimento por imagens e coordenadas.
+7. Aguarde até que o script complete o farm de XP ou pare manualmente quando desejar, CTRL+C no terminal para encerrar.
 
 ## Notas importantes
 
