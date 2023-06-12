@@ -1,48 +1,51 @@
-# Script de Farm XP - BloonsTD6 - Mapa Castelo Sombrio
+# XP Farm Script - BloonsTD6 - Dark Castle Map
 
-Este repositório contém um script personalizado em Python para farmar XP no mapa Castelo Sombrio do jogo BloonsTD6. O script automatiza o processo de jogo, permitindo que você ganhe experiência de forma mais eficiente.
+[🇺🇸 Read the English version](README.md)
+[🇧🇷 Leia a versão em português](README_pt.md)
 
-## Pré-requisitos
+This repository contains a custom Python script for farming XP on the Dark Castle map in the game BloonsTD6. The script automates the gameplay process, allowing you to gain experience more efficiently.
 
-Antes de usar este script, você precisa ter o seguinte:
+## Prerequisites
 
-- BloonsTD6 instalado no seu dispositivo.
-- Uma conta válida e conectada ao jogo.
-- Conhecimento básico sobre como executar scripts no BloonsTD6.
-- Python 3 instalado em sua máquina.
-- o jogo precisar estar rodando em tela cheia e 1920x1080
+Before using this script, you need to have the following:
 
-## Dependências
+- BloonsTD6 installed on your device.
+- A valid account connected to the game.
+- Basic knowledge of running scripts in BloonsTD6.
+- Python 3 installed on your machine.
+- The game needs to be running in full-screen mode at a resolution of 1920x1080.
 
-O script utiliza as seguintes bibliotecas Python:
+## Dependencies
+
+The script uses the following Python libraries:
 
 - pyautogui
 - keyboard
 
-## Como usar
+## How to Use
 
-Siga as etapas abaixo para utilizar o script:
+Follow the steps below to use the script:
 
-1. Faça o download ou clone este repositório em sua máquina local. `git clone https://github.com/pepeu120/Farm-XP-BloonsTD6`
-2. Instale as dependencias `pip install pyautogui` e `pip install keyboard`
-3. Abra o jogo BloonsTD6 e em modo tela cheia, na resolução 1920x1080, deixe no meu principal, onde tem a opção jogar.
-4. Acesse o local do main.py pelo terminal (com tamanho reduzido, não pode cobrir o botão jogar).
-5. Execute `py main.py`
-6. O script iniciará automaticamente o processo de farm de XP, utilizando reconhecimento por imagens e coordenadas.
-7. Aguarde até que o script complete o farm de XP ou pare manualmente quando desejar, CTRL+C no terminal para encerrar.
+1. Download or clone this repository to your local machine. `git clone https://github.com/pepeu120/Farm-XP-BloonsTD6`
+2. Install the dependencies using `pip install pyautogui` and `pip install keyboard`.
+3. Open BloonsTD6 in full-screen mode at a resolution of 1920x1080, on the main screen where the play option is located.
+4. Navigate to the location of the `main.py` file in the terminal (with a reduced size, it should not cover the play button).
+5. Run `py main.py`.
+6. The script will automatically start the XP farming process using image recognition and coordinates.
+7. Wait until the script completes the XP farm or manually stop it whenever you want by pressing CTRL+C in the terminal to terminate it.
 
-## Notas importantes
+## Important Notes
 
-- Este script foi desenvolvido para fins educacionais e de entretenimento. Use-o por sua conta e risco.
-- O script pode apresentar falhas ou interrupções devido a atualizações ou eventos no jogo BloonsTD6.
-- Certifique-se de seguir as diretrizes e os termos de serviço do BloonsTD6 ao usar este script.
-- O desempenho do script pode variar dependendo do dispositivo e da configuração do jogo.
-- Verifique e ajuste as configurações do script, se necessário, para otimizar o farm de XP.
+- This script was developed for educational and entertainment purposes. Use it at your own risk.
+- The script may encounter failures or interruptions due to updates or events in the BloonsTD6 game.
+- Make sure to follow the guidelines and terms of service of BloonsTD6 when using this script.
+- The script's performance may vary depending on the device and game settings.
+- Verify and adjust the script's settings, if necessary, to optimize the XP farming process.
 
-## Contribuições
+## Contributions
 
-Contribuições são bem-vindas! Se você quiser melhorar ou adicionar recursos ao script, fique à vontade para enviar um pull request.
+Contributions are welcome! If you want to improve or add features to the script, feel free to submit a pull request.
 
-## Aviso Legal
+## Legal Disclaimer
 
-Este repositório e o script fornecido não têm afiliação oficial com o jogo BloonsTD6 ou seus desenvolvedores. Use-o por sua conta e risco.
+This repository and the provided script are not officially affiliated with the game BloonsTD6 or its developers. Use it at your own risk.
